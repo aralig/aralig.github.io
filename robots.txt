@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aralig.github.io/GSl/sitemap.GSl.gz
